@@ -1,4 +1,6 @@
-### Hey guys, I'm Bruna 😆
+### Hey guys, I'm Bruna 🖤
+### 🎯 My goal is to be a Fullstack Developer
+
 <div>
   <a href="https://github.com/BrunaMoraisMenezes">
   <img align="center" src="https://github.com/BrunaMoraisMenezes/BrunaMoraisMenezes/assets/58346646/12c914ec-47b7-47f4-b17e-3b276c809bbf">
