@@ -1,4 +1,4 @@
-### Hey guys, I'm Bruna 🖤
+# Hey guys, I'm Bruna 🖤
 ### 🎯 My goal is to be a Fullstack Developer
 
 <div>
