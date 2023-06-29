@@ -20,6 +20,8 @@
  <div>
     <hr color="black">
       <a href="https://www.linkedin.com/in/bruna-morais-menezes-8725b9219"><img align="center" height=120 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
+   
+   ![Snake animation](https://github.com/BrunaMoraisMenezes/BrunaMoraisMenezes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
