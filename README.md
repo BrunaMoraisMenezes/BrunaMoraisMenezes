@@ -1,4 +1,4 @@
-# Hey guys, I'm Bruna 🖤
+# Hey guys, I'm Bruna 💛
 ### 🎯 My goal is to be a Fullstack Developer
 
 <div>
@@ -13,13 +13,14 @@
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
  </div>
  <br>
 
 ## TALK TO ME
  <div>
-      <a href="https://www.linkedin.com/in/bruna-morais-menezes-8725b9219"><img align="center" height=120 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/bruna-morais-menezes-8725b9219"><img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
 
 ![snake gif](https://github.com/BrunaMoraisMenezes/BrunaMoraisMenezes/blob/output/github-contribution-grid-snake.svg)
