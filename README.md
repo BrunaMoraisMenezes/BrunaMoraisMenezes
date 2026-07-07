@@ -14,7 +14,7 @@
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" height=80 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  </div>
  <br>
 
